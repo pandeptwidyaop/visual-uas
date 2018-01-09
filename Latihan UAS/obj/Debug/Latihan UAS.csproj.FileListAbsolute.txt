@@ -1,0 +1,11 @@
+D:\Project\desktop\visual\Kuliah\Latihan UAS\Latihan UAS\bin\Debug\Latihan UAS.exe.config
+D:\Project\desktop\visual\Kuliah\Latihan UAS\Latihan UAS\bin\Debug\Latihan UAS.exe
+D:\Project\desktop\visual\Kuliah\Latihan UAS\Latihan UAS\bin\Debug\Latihan UAS.pdb
+D:\Project\desktop\visual\Kuliah\Latihan UAS\Latihan UAS\obj\Debug\Latihan UAS.csprojResolveAssemblyReference.cache
+D:\Project\desktop\visual\Kuliah\Latihan UAS\Latihan UAS\obj\Debug\Latihan_UAS.MainForm.resources
+D:\Project\desktop\visual\Kuliah\Latihan UAS\Latihan UAS\obj\Debug\Latihan_UAS.Properties.Resources.resources
+D:\Project\desktop\visual\Kuliah\Latihan UAS\Latihan UAS\obj\Debug\Latihan UAS.csproj.GenerateResource.Cache
+D:\Project\desktop\visual\Kuliah\Latihan UAS\Latihan UAS\obj\Debug\Latihan UAS.csproj.CoreCompileInputs.cache
+D:\Project\desktop\visual\Kuliah\Latihan UAS\Latihan UAS\obj\Debug\Latihan UAS.exe
+D:\Project\desktop\visual\Kuliah\Latihan UAS\Latihan UAS\obj\Debug\Latihan UAS.pdb
+D:\Project\desktop\visual\Kuliah\Latihan UAS\Latihan UAS\obj\Debug\Latihan_UAS.LoginForm.resources
